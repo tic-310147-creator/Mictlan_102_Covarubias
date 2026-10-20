@@ -1,2 +1,2 @@
-# Mictlan_102_Covarubias
+# Mictlan_102_Covarrubias
 Front de videojuegos 
